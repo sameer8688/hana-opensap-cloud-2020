@@ -11,6 +11,7 @@
       <resourceUri>OPENSAP_MD_BUSINESSPARTNERS</resourceUri>
     </DataSource>
   </dataSources>
+<snapshotProcedures/>
 <calculationViews>
   <calculationView xsi:type="Calculation:JoinView" id="Join_1" joinType="inner" partitionedExecution="false">
     <viewAttributes>
